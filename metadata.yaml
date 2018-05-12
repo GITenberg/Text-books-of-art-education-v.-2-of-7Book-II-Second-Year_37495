@@ -1,0 +1,31 @@
+_repo: Text-books-of-art-education-v.-2-of-7Book-II-Second-Year_37495
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37495-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Snow, Bonnie E.
+    deathdate: &id001 1925
+    gutenberg_agent_id: '38875'
+    url: http://www.gutenberg.org/2009/agents/38875
+  - agent_name: Froehlich, Hugo B.
+    birthdate: 1862
+    deathdate: *id001
+    gutenberg_agent_id: '38874'
+    url: http://www.gutenberg.org/2009/agents/38874
+description: ''
+gutenberg_issued: '2011-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- Textbooks'
+- !lcsh 'Art -- Study and teaching'
+- !lcc 'N'
+title: Text books of art education, v. 2 of 7. Book II, Second Year
+url: http://www.gutenberg.org/ebooks/37495
