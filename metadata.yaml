@@ -6,15 +6,17 @@ covers:
 creator:
   authors:
   - agent_name: Snow, Bonnie E.
-    deathdate: &id001 1925
+    deathdate: 1925
     gutenberg_agent_id: '38875'
     url: http://www.gutenberg.org/2009/agents/38875
   - agent_name: Froehlich, Hugo B.
     birthdate: 1862
-    deathdate: *id001
+    deathdate: 1925
     gutenberg_agent_id: '38874'
     url: http://www.gutenberg.org/2009/agents/38874
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37495#Text-books-of-art-education-v.-2-of-7Book-II-Second-Year
 gutenberg_issued: '2011-09-21'
 gutenberg_type: Text
 identifiers:
